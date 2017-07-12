@@ -1,0 +1,12 @@
+/*CSS*/
+*{margin:0;padding:0;box-sizing:border-box}
+img{max-width: 100%;height:auto}
+
+/*** Header start***/
+header{width:100%;height:50px;background:#454545;text-align:center;display:flex;justify-content:center;align-items:center;color:#fff;font-size:24px}
+
+/*** Main container start***/    
+.container{width:90%;margin:30px auto;border:1px solid #ddd;padding:25px;max-width:600px;background:#002e63}
+
+/*** text container***/  
+.item-block{background:#00a6ca;padding:25px;font-size:18px;color:#fff}
